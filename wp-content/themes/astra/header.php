@@ -1,6 +1,7 @@
 <?php
 /**
  * The header for Astra Theme.
+ * //testje voor commit
  *
  * This is the template that displays all of the <head> section and everything up until <div id="content">
  *
